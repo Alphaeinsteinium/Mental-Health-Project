@@ -15,16 +15,6 @@ A responsive web platform supporting mental well-being for workers and millennia
 
 ---
 
-## Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Alphaeinsteinium/Mental-Health-Project.git
-   ```
-2. Open `index.html` in your browser.
-
----
-
 ## Tech Stack
 
 - HTML, CSS, JavaScript
